@@ -65,8 +65,8 @@ This project is a **Hospital Management System database** built using MySQL. It 
 ## Views / Tasks
 
 1. **Doctorwise_Appointments**  
-   Lists all appointments with patient and doctor info.  
-   `SELECT * FROM Doctorwise_Appointments;`
+   Appointments with patient and doctor info.  
+   
 
 2. **Patient_Billing_Summary**  
    Total billing per patient.  
