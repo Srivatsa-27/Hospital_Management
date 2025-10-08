@@ -1,0 +1,5 @@
+insurance_provider,Total_Bills,Total_Billing,Pending_Amount,Treatments_Covered
+"MedCare Plus",84,241092.29,68256.69,"Chemotherapy, ECG, MRI, Physiotherapy, X-Ray"
+WellnessCorp,58,151860.58,52019.04,"Chemotherapy, ECG, MRI, Physiotherapy, X-Ray"
+PulseSecure,36,104473.22,42647.56,"Chemotherapy, ECG, MRI, Physiotherapy, X-Ray"
+HealthIndia,22,53823.76,21688.72,"Chemotherapy, ECG, MRI, Physiotherapy, X-Ray"

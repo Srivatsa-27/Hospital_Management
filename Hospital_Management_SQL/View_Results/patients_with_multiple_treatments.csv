@@ -1,0 +1,49 @@
+patient_id,First_Name,Last_Name,Number_of_Treatments,Treatments_List,Total_Bill_Amount
+P012,Laura,Davis,10,"ECG, Chemotherapy, X-Ray, MRI, X-Ray, X-Ray, Physiotherapy, MRI, X-Ray, Chemotherapy",30053.08
+P005,David,Wilson,8,"Physiotherapy, Physiotherapy, X-Ray, Physiotherapy, Chemotherapy, ECG, ECG, X-Ray",18609.91
+P049,David,Moore,7,"ECG, X-Ray, Chemotherapy, X-Ray, Chemotherapy, Chemotherapy, X-Ray",23554.06
+P016,Michael,Taylor,7,"Physiotherapy, MRI, MRI, ECG, Physiotherapy, Chemotherapy, Chemotherapy",22967.94
+P036,Michael,Wilson,7,"MRI, Chemotherapy, MRI, ECG, Chemotherapy, MRI, Physiotherapy",21583.56
+P035,David,Wilson,7,"Physiotherapy, ECG, Chemotherapy, MRI, Physiotherapy, Physiotherapy, Chemotherapy",18407.42
+P029,David,Smith,7,"Chemotherapy, X-Ray, ECG, Chemotherapy, Physiotherapy, Physiotherapy, Chemotherapy",13324.50
+P010,Michael,Taylor,6,"Chemotherapy, Chemotherapy, ECG, X-Ray, ECG, MRI",15929.15
+P037,Robert,Williams,6,"MRI, MRI, ECG, X-Ray, MRI, X-Ray",13886.89
+P023,Linda,Johnson,6,"Physiotherapy, ECG, Chemotherapy, Physiotherapy, Chemotherapy, X-Ray",13237.69
+P026,John,Taylor,6,"Physiotherapy, Chemotherapy, ECG, ECG, X-Ray, X-Ray",10487.70
+P025,Robert,Wilson,5,"MRI, MRI, ECG, Physiotherapy, Physiotherapy",19513.17
+P048,Emily,Miller,5,"MRI, ECG, MRI, Physiotherapy, ECG",17082.48
+P039,Jane,Wilson,5,"Physiotherapy, Physiotherapy, X-Ray, Chemotherapy, X-Ray",14357.43
+P032,Alex,Moore,5,"MRI, ECG, Physiotherapy, MRI, X-Ray",13656.67
+P045,Linda,Miller,5,"Chemotherapy, Chemotherapy, ECG, Chemotherapy, Chemotherapy",13120.96
+P019,Sarah,Miller,5,"ECG, X-Ray, MRI, Physiotherapy, Physiotherapy",10408.90
+P017,Jane,Jones,4,"Physiotherapy, MRI, X-Ray, Chemotherapy",14850.28
+P031,Robert,Miller,4,"MRI, Chemotherapy, Physiotherapy, MRI",13732.02
+P022,John,Brown,4,"MRI, ECG, MRI, ECG",13143.45
+P033,Michael,Wilson,4,"X-Ray, ECG, ECG, ECG",12234.85
+P050,Laura,Wilson,4,"MRI, ECG, Chemotherapy, MRI",11206.38
+P007,Alex,Johnson,4,"X-Ray, X-Ray, Chemotherapy, X-Ray",10734.38
+P009,Laura,Davis,4,"Chemotherapy, Chemotherapy, X-Ray, ECG",10556.54
+P024,Sarah,Brown,4,"Chemotherapy, X-Ray, X-Ray, ECG",10476.70
+P013,Laura,Johnson,4,"X-Ray, Chemotherapy, Chemotherapy, Physiotherapy",9308.08
+P001,David,Williams,4,"Chemotherapy, Chemotherapy, ECG, Physiotherapy",7719.07
+P014,Alex,Taylor,3,"Chemotherapy, MRI, ECG",13236.19
+P047,Jane,Moore,3,"MRI, ECG, X-Ray",10423.17
+P046,Michael,Taylor,3,"Chemotherapy, ECG, MRI",10031.80
+P021,Michael,Wilson,3,"Physiotherapy, ECG, Chemotherapy",9374.61
+P034,Alex,Smith,3,"Chemotherapy, X-Ray, X-Ray",9104.39
+P041,Robert,Williams,3,"X-Ray, MRI, ECG",7506.22
+P028,Alex,Moore,3,"X-Ray, MRI, MRI",6227.44
+P002,Emily,Smith,3,"Physiotherapy, X-Ray, Chemotherapy",5968.74
+P040,Emily,Williams,3,"ECG, Chemotherapy, X-Ray",5602.68
+P030,Emily,Moore,3,"ECG, Chemotherapy, X-Ray",5588.64
+P043,Linda,Brown,3,"Chemotherapy, Chemotherapy, X-Ray",4947.03
+P044,Robert,Taylor,2,"Chemotherapy, MRI",9324.10
+P003,Laura,Jones,2,"MRI, MRI",7936.88
+P011,Emily,Jones,2,"MRI, Chemotherapy",7728.88
+P038,David,Smith,2,"Physiotherapy, Physiotherapy",7537.98
+P020,Jane,Moore,2,"Physiotherapy, Physiotherapy",6237.18
+P004,Michael,Johnson,2,"ECG, X-Ray",5362.51
+P018,Laura,Wilson,2,"Chemotherapy, X-Ray",5087.79
+P042,Jane,Smith,2,"Chemotherapy, Physiotherapy",4506.78
+P008,David,Davis,2,"Physiotherapy, Physiotherapy",3636.89
+P027,Linda,Moore,2,"ECG, X-Ray",1736.69
